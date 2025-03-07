@@ -1,5 +1,5 @@
 # Open-Greek-SinginDataset
-a base AI SVS Model Training dataset capable of the Greek language, used in "A-MAIN -DS MODE-" as well as included striged samples of the Greek CVVC reclist.
+a base AI SVS Model Training dataset capable of the Greek language, used in "A-MAIN -DS MODE-" as well as included striged samples of my dedicated Greek CVVC reclist.
 
 Phonemes are labelled according to SAMPA Greek phonemes, with additions of [rr] and [ll], as well as conventional DS-specific phonemes.
 
