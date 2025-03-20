@@ -1,4 +1,8 @@
+#OGSD Greek HED for NNSVS/ENUNU
 #in_dim: 249 (duration/timelag), 253 (acoustic)
+#the top is calculated by UtaUtaUtau's tool, the bottom are maybe rough estimates.
+#in_rest_idx: 1
+#in_lfx0_idx: 205
 
 QS "L-Vowel" {*^a-*,*^i-*,*^u-*,*^e-*,*^o-*}
 QS "C-Vowel" {*-a+*,*-i+*,*-u+*,*-e+*,*-o+*}
@@ -12,13 +16,17 @@ QS "L-Silence" {*^pau-*,*^sil-*,*^br-*}
 QS "C-Silence" {*-pau+*,*-sil+*,*-br+*}
 QS "R-Silence" {*+pau=*,*+sil=*,*+br=*}
 
-QS "L-VUV_Voiced" {*^a-*,*^i-*,*^u-*,*^e-*,*^o-*,*^b-*,*^d-*,*^g-*,*^dz-*,*^v-*,*^D-*,*^z-*,*^G-*,*^m-*,*^n-*,*^N-*,*^l-*,*^ll-*,*^r-*,*^rr-*,*^y-*,*^gj-*}
-QS "C-VUV_Voiced" {*-a+*,*-i+*,*-u+*,*-e+*,*-o+*,*-b+*,*-d+*,*-g+*,*-dz+*,*-v+*,*-D+*,*-z+*,*-G+*,*-m+*,*-n+*,*-N+*,*-l+*,*-ll+*,*-r+*,*-rr+*,*-y+*,*-gj+*}
-QS "R-VUV_Voiced" {*+a=*,*+i=*,*+u=*,*+e=*,*+o=*,*+b=*,*+d=*,*+g=*,*+dz=*,*+v=*,*+D=*,*+z=*,*+G=*,*+m=*,*+n=*,*+N=*,*+l=*,*+ll=*,*+r=*,*+rr=*,*+y=*,*+gj=*}
+QS "L-NOFIX_VUV_Voiced" {*^a-*,*^i-*,*^u-*,*^e-*,*^o-*,*^b-*,*^d-*,*^g-*,*^dz-*,*^v-*,*^D-*,*^z-*,*^G-*,*^m-*,*^n-*,*^N-*,*^l-*,*^ll-*,*^r-*,*^rr-*,*^y-*,*^gj-*}
+QS "C-NOFIX_VUV_Voiced" {*-a+*,*-i+*,*-u+*,*-e+*,*-o+*,*-b+*,*-d+*,*-g+*,*-dz+*,*-v+*,*-D+*,*-z+*,*-G+*,*-m+*,*-n+*,*-N+*,*-l+*,*-ll+*,*-r+*,*-rr+*,*-y+*,*-gj+*}
+QS "R-NOFIX_VUV_Voiced" {*+a=*,*+i=*,*+u=*,*+e=*,*+o=*,*+b=*,*+d=*,*+g=*,*+dz=*,*+v=*,*+D=*,*+z=*,*+G=*,*+m=*,*+n=*,*+N=*,*+l=*,*+ll=*,*+r=*,*+rr=*,*+y=*,*+gj=*}
 
-QS "L-VUV_Unvoiced" {*^p-*,*^t-*,*^k-*,*^ts-*,*^f-*,*^T-*,*^s-*,*^x-*,*^c-*,*^C-*,*^ks-*,*^ps-*}
-QS "C-VUV_Unvoiced" {*-p+*,*-t+*,*-k+*,*-ts+*,*-f+*,*-T+*,*-s+*,*-x+*,*-c+*,*-C+*,*-ks+*,*-ps+*}
-QS "R-VUV_Unvoiced" {*+p=*,*+t=*,*+k=*,*+ts=*,*+f=*,*+T=*,*+s=*,*+x=*,*+c=*,*+C=*,*+ks=*,*+ps=*}
+#QS "L-NOFIX_VUV_Unvoiced" {*^pau-*,*^sil-*,*^p-*,*^t-*,*^k-*,*^ts-*,*^f-*,*^T-*,*^s-*,*^x-*,*^c-*,*^C-*,*^ks-*,*^ps-*}
+#QS "C-NOFIX_VUV_Unvoiced" {*-pau+*,*-sil+*,*-p+*,*-t+*,*-k+*,*-ts+*,*-f+*,*-T+*,*-s+*,*-x+*,*-c+*,*-C+*,*-ks+*,*-ps+*}
+#QS "R-NOFIX_VUV_Unvoiced" {*+pau=*,*+sil=*,*+p=*,*+t=*,*+k=*,*+ts=*,*+f=*,*+T=*,*+s=*,*+x=*,*+c=*,*+C=*,*+ks=*,*+ps=*}
+
+QS "L-VUV_Unvoiced" {*^pau-*,*^sil-*}
+QS "C-VUV_Unvoiced" {*-pau+*,*-sil+*}
+QS "R-VUV_Unvoiced" {*+pau=*,*+sil=*}
 
 QS "L-Vowel_Open" {*^a-*}
 QS "C-Vowel_Open" {*-a+*}
@@ -233,6 +241,9 @@ QS "R-GlottalStop" {*+cl=*}
 QS "L-VocalFry" {*^vf-*}
 QS "C-VocalFry" {*-vf+*}
 QS "R-VocalFry" {*+vf=*}
+QS "L-Trash" {*^vtrash-*}
+QS "C-Trash" {*-vtrash+*}
+QS "R-Trash" {*+vtrash=*}
 
 # Extra Style Flags, edit as needed
 
