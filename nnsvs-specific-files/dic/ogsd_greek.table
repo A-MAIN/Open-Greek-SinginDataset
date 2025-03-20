@@ -1,0 +1,59 @@
+# dictionary table file for training
+# nnsvs-common phonemes
+br br
+息 br
+pau pau
+R pau
+- pau
+sil sil
+# phonemes only
+a a
+e e
+i i
+o o
+u u
+p p
+b b
+t t
+d d
+k k
+g g
+ts ts
+dz dz
+f f
+v v
+T T
+D D
+s s
+z z
+x x
+G G
+m m
+n n
+N N
+l l
+ll ll
+r r
+rr rr
+y y
+c c
+gj gj
+C C
+ks ks
+.ks k s
+ps ps
+.ps p s
+# extra common phonemes
+cl cl
+q cl
+GlottalStop cl
+glottalstop cl
+gs cl
+・ cl
+vf vf
+' vf
+’ vf
+Edge vf
+edge vf
+VocalFry vf
+vocalfry vf
