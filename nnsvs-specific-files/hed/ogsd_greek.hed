@@ -246,6 +246,12 @@ QS "C-Trash" {*-vtrash+*}
 QS "R-Trash" {*+vtrash=*}
 
 # Extra Style Flags, edit as needed
+QS "Falsetto" {*^F_*}
+QS "Hard" {*^H_*}
+QS "Soft" {*^S_*}
+QS "custom1" {*^1_*}
+QS "custom2" {*^2_*}
+QS "custom2" {*^3_*}
 
 # from r9y9/nnsvs/recipes/_common
 
