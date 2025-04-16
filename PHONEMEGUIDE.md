@@ -1,5 +1,5 @@
 ﻿## Base OGSD Phoneme guide
-the Greek phonemes on this repository are based on X-SAMPA with a few additions and romanizations, however there's also an arpa-like equivalent replacing the certain uppercase phonemes. this compares to [the original SAMPA chart](https://www.phon.ucl.ac.uk/home/sampa/grk-uni.htm).
+the Greek phonemes on this repository are based on X-SAMPA with a few additions and romanizations, however there's also an arpa-like equivalent replacing the certain uppercase phonemes. this compares to [the original SAMPA chart](https://www.phon.ucl.ac.uk/home/sampa/grk-uni.htm) and VOCALOID equivalent.
 
 Base set | ARPA-ised set |  original SAMPA | Category | Example
 ------- | ------- | ------- | ------- | ------- 
