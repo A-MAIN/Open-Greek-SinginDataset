@@ -43,6 +43,6 @@ DiffSinger | ENUNU | X-SAMPA | Notes
 ------- | ------- | ---------- | -------
 SP | sil | n/a | silence
 AP | br | n/a | breath sounds
-SP, AP | pau | n/a | silence, breaths, and unsung segments in general (when working with ENUNU Training, it is reccomended to use it instead of br and sil due to recent errors)
+SP, AP | pau | n/a | silence, breaths, and unsung segments in general (when working with ENUNU Training, it is reccomended to use it instead of [br] and [sil] due to recent errors)
 cl  | cl | ? / _} | glottal stop
 vf  | vf | n/a | vocal fry
