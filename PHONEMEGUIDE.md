@@ -1,5 +1,5 @@
 ﻿## Base OGSD Phoneme guide
-the Greek phonemes on this repository are based on X-SAMPA with a few romanizations, however there's also an arpa-like equivalent replacing the certain uppercase phonemes. this compares to [the original SAMPA chart](https://www.phon.ucl.ac.uk/home/sampa/grk-uni.htm).
+the Greek phonemes on this repository are based on X-SAMPA with a few aditions and romanizations, however there's also an arpa-like equivalent replacing the certain uppercase phonemes. this compares to [the original SAMPA chart](https://www.phon.ucl.ac.uk/home/sampa/grk-uni.htm).
 
 Base set | ARPA-ised set |  original SAMPA | Category | Example
 ------- | ------- | ------- | ------- | ------- 
@@ -14,7 +14,7 @@ C  | xy | C | palatalized fricative | χε, χι, χια, χιο, χιου (in t
 d | d | d | stop | ντ
 D | dh | D | fricative | δ
 dz | dz | dz | affricate | τζ
-f | f | f | fricative | φ
+f | f | f | fricative | φ, αυ, ευ (the latter two are situational)
 g | g | g | stop | γκ
 G | gh | G | fricative | γ
 gj | gy | gj / g\ | palatalized stop | γγε, γκι, γκια, γκιο, γκιου
@@ -33,7 +33,7 @@ s | s | s | fricative | σ, ς
 t | t | t | stop | τ
 Τ | th | T | fricative | θ
 ts | ts | ts | affricate | τσ, τς
-v | v | v | fricative | β
+v | v | v | fricative | β, αυ, ευ (the latter two are situational)
 x  | x | x | fricative | χ
 y  | y | j, jj / j\ | semivowel | γε, γι, για, γιο, γιου 
 z  | z | z | fricative | ζ
