@@ -17,7 +17,7 @@ dz | dz | dz | affricate | τζ
 f | f | f | fricative | φ, αυ, ευ (the latter two are situational)
 g | g | g | stop | γκ
 G | gh | G | fricative | γ
-gj | gy | gj / g\ | palatalized stop | γγε, γκι, γκια, γκιο, γκιου
+gj | gy | gj / g' | palatalized stop | γγε, γκι, γκια, γκιο, γκιου
 k | k | k | stop | κ
 ks | ks | [k s] | cluster | ξ
 l | l | l | liquid | λ
