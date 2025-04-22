@@ -36,7 +36,7 @@ ks | ks | /ks/ | [k s] | cluster | **ξ**έχασε
 ps | ps | /ps/ | [p s] | cluster | **ψ**ήνω
 c | ky | c | c | palatalized stop | **κ**αι, σα**κ**ί, σ**κι**άζω (in the arpa-ized set, the [ky] combination doesnt apply to the [e] and [i] vowels)
 C | xy | ç | C | palatalized fricative | **χ**έρι, μονα**χ**ή, **χι**όνι  (in the arpa-ized set, the [xy] combination doesnt apply to the [e] and [i] vowels)
-gj | gy | ɟ | gj / g', J\ | palatalized stop | ά**γγ**ελος **γκ**ίνια, **γκι**ώνης
+gj | gy | ɟ | gj / g', J\ | palatalized stop | ά**γγ**ελος, **γκ**ίνια, **γκι**ώνης
 ll | ll | ʎ | L | palatalized allophone liquid | ε**λι**ά
 
 ### Global common phonemes
