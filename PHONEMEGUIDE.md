@@ -1,6 +1,6 @@
 ﻿## Base OGSD Phoneme guide
 the Greek phonemes on this repository are based on X-SAMPA with a few additions and romanizations, however there's also an arpa-like equivalent replacing the certain uppercase phonemes and extras. this compares to [the original SAMPA chart](https://www.phon.ucl.ac.uk/home/sampa/grk-uni.htm), IPA symbols, and VOCALOID equivalents.
-if you wnat to include these phonemes to your voicebank, I recommend you use the "el/" tag.
+If you want to include these phonemes to your voicebank, I recommend you use the "el/" tag.
 
 Base set | ARPA-ised set | original IPA |  original (X)-SAMPA | Category | Example
 ------- | ------- | ------- | ------- | ------- | ------- 
