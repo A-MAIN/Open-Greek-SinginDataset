@@ -1,5 +1,5 @@
 ﻿## Base OGSD Phoneme guide
-the Greek phonemes on this repository are based on X-SAMPA with a few additions and romanizations, however there's also an arpa-like equivalent replacing the certain uppercase phonemes. this compares to [the original SAMPA chart](https://www.phon.ucl.ac.uk/home/sampa/grk-uni.htm), IPA symbols, and VOCALOID equivalents.
+the Greek phonemes on this repository are based on X-SAMPA with a few additions and romanizations, however there's also an arpa-like equivalent replacing the certain uppercase phonemes and extras. this compares to [the original SAMPA chart](https://www.phon.ucl.ac.uk/home/sampa/grk-uni.htm), IPA symbols, and VOCALOID equivalents.
 if you wnat to include these phonemes to your voicebank, I recommend you use the "el/" tag.
 
 Base set | ARPA-ised set | original IPA |  original (X)-SAMPA | Category | Example
@@ -37,7 +37,8 @@ ps | ps | /ps/ | [p s] | cluster | **ψ**ήνω
 c | ky | c | c | palatalized stop | **κ**αι, σα**κ**ί, σ**κι**άζω (in the arpa-ized set, the [ky] combination doesnt apply to the [e] and [i] vowels)
 C | xy | ç | C | palatalized fricative | **χ**έρι, μονα**χ**ή, **χι**όνι  (in the arpa-ized set, the [xy] combination doesnt apply to the [e] and [i] vowels)
 gj | gy | ɟ | gj / g', J\ | palatalized stop | ά**γγ**ελος, **γκ**ίνια, **γκι**ώνης
-ll | ll | ʎ | L | palatalized allophone liquid | ε**λι**ά
+ll | ll | ʎ | L | palatalized liquid | ε**λι**ά
+nj | ny | ɲ | J | palatalized nasal | **νι**ώθω (this is only exclusive to the DiffSinger phonemeset as of writing this)
 
 ### Global common phonemes
 DiffSinger | ENUNU | IPA | X-SAMPA | Notes
