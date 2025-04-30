@@ -23,8 +23,8 @@ m | m | m | m | nasal | **μ**όνος
 n | n | n | n | nasal | **ν**όμος
 Ν | ng | ŋ | N | allophone nasal | α**γγ**ούρι
 p | p | p | p | stop | **π**ήρα
-r | r | ɾ | 4 | liquid | **ρ**ήμα
-rr | rr | r |  r | liquid | ά**ρ**τος
+r | r | ɾ | 4 / r | liquid | **ρ**ήμα
+rr | rr | r |  r / rr | liquid | ά**ρ**τος
 s | s | s | s | fricative | **σ**ελίδα, πλάτο**ς**
 t | t | t | t | stop | **τ**είνω
 Τ | th | θ | T | fricative | **θ**έμα
