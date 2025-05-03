@@ -12,33 +12,33 @@ u | οu | u | u | vowel | π**ου**
 y  | y | j ʝ | j, jj / j\ | semivowel | **γ**έρος, **γ**η, κρα**γι**όν, δ**ι**αβάζω
 b | b | b | b | stop | **μπ**ορώ
 d | d | d | d | stop | πέ**ντ**ε
-D | dh | ð | D | fricative | **δ**έμα
 dz | dz | d͡z | dz | affricate | **τζ**άμι
 f | f | f | f | fricative | **φ**εύγω, αυ, ευ (the latter two are situational)
 g | g | g | g | stop | ό**γκ**ος
-G | gh | ɣ | G | fricative | **γ**αστρονομική
 k | k | k | k | stop | **κ**όμμα
 l | l | l | l | liquid | **λ**ίμα
 m | m | m | m | nasal | **μ**όνος
 n | n | n | n | nasal | **ν**όμος
-Ν | ng | ŋ | N | allophone nasal | α**γγ**ούρι
 p | p | p | p | stop | **π**ήρα
 r | r | ɾ | 4 / r | liquid | **ρ**ήμα
 rr | rr | r |  r / rr | liquid | ά**ρ**τος
 s | s | s | s | fricative | **σ**ελίδα, πλάτο**ς**
 t | t | t | t | stop | **τ**είνω
-Τ | th | θ | T | fricative | **θ**έμα
 ts | ts | t͡s | ts | affricate | **τσ**άγια, μα**τς**
 v | v | v | v | fricative | **β**άση, αυ, ευ (the latter two are situational)
 x | x | x | x | fricative | **χ**ώμα
 z | z | z | z | fricative | **ζ**άρη
+D | dh | ð | D | fricative | **δ**έμα
+G | gh | ɣ | G | fricative | **γ**αστρονομική
+Ν | ng | ŋ | N | allophone nasal | α**γγ**ούρι
+Τ | th | θ | T | fricative | **θ**έμα
 ks | ks | /ks/ | [k s] | cluster | **ξ**έχασε
 ps | ps | /ps/ | [p s] | cluster | **ψ**ήνω
 c | ky | c | c | palatalized stop | **κ**αι, σα**κ**ί, σ**κι**άζω (in the arpa-ized set, the [ky] combination doesnt apply to the [e] and [i] vowels)
-C | xy | ç | C | palatalized fricative | **χ**έρι, μονα**χ**ή, **χι**όνι  (in the arpa-ized set, the [xy] combination doesnt apply to the [e] and [i] vowels)
 gj | gy | ɟ | gj / g', J\ | palatalized stop | ά**γγ**ελος, **γκ**ίνια, **γκι**ώνης
 ll | ll | ʎ | L | palatalized liquid | ε**λι**ά
 nj | ny | ɲ | J | palatalized nasal | **νι**ώθω (this is only exclusive to the DiffSinger phonemeset as of writing this)
+C | xy | ç | C | palatalized fricative | **χ**έρι, μονα**χ**ή, **χι**όνι  (in the arpa-ized set, the [xy] combination doesnt apply to the [e] and [i] vowels)
 
 ### Global common phonemes
 DiffSinger | ENUNU | IPA | X-SAMPA | Notes
