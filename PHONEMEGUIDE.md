@@ -34,11 +34,11 @@ G | gh | ɣ | G | fricative | **γ**αστρονομική
 Τ | th | θ | T | fricative | **θ**έμα
 ks | ks | /ks/ | [k s] | cluster | **ξ**έχασε
 ps | ps | /ps/ | [p s] | cluster | **ψ**ήνω
-c | ky | c | c | palatalized stop | **κ**αι, σα**κ**ί, σ**κι**άζω (in the arpa-ized set, the [ky] combination doesnt apply to the [e] and [i] vowels)
+kj | ky | c | c | palatalized stop | **κ**αι, σα**κ**ί, σ**κι**άζω (in the arpa-ized set, the [ky] combination doesnt apply to the [e] and [i] vowels)
 gj | gy | ɟ | gj / g', J\ | palatalized stop | ά**γγ**ελος, **γκ**ίνια, **γκι**ώνης
 ll | ll | ʎ | L | palatalized liquid | ε**λι**ά
 nj | ny | ɲ | J | palatalized nasal | **νι**ώθω (this is only exclusive to the DiffSinger phonemeset as of writing this)
-C | xy | ç | C | palatalized fricative | **χ**έρι, μονα**χ**ή, **χι**όνι  (in the arpa-ized set, the [xy] combination doesnt apply to the [e] and [i] vowels)
+xj | xy | ç | C | palatalized fricative | **χ**έρι, μονα**χ**ή, **χι**όνι  (in the arpa-ized set, the [xy] combination doesnt apply to the [e] and [i] vowels)
 
 ### Global common phonemes
 DiffSinger | ENUNU | IPA | X-SAMPA | Notes
