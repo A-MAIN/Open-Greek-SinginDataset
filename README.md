@@ -8,6 +8,7 @@ All audio in this dataset was recorded using an AT2020USB-XP, and most samples h
 The audio data is in 16 bit WAV, 44.1 KHZ, and mono.
 
 By utilizing this dataset, you agree to the following terms:
+
 **DO'S**:
 - you may use the audio & labels 
 
