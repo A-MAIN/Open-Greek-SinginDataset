@@ -7,4 +7,4 @@ All audio in this dataset was recorded using an AT2020USB-XP, and most samples h
 
 The data is in 16 bit WAV, 44.1 KHZ, and mono.
 
-Open-Greek-SinginDataset is licensed under CC BY-NC-SA 4.0
+Open-Greek-SinginDataset is licensed under CC BY-NC 4.0
