@@ -34,11 +34,11 @@ G | ɣ | G | fricative | **γ**αστρονομική
 Τ | θ | T | fricative | **θ**έμα
 ks | /ks/ | [k s] | cluster | **ξ**έχασε
 ps | /ps/ | [p s] | cluster | **ψ**ήνω
-kj | c | c | palatalized stop | **κ**αι, σα**κ**ί, σ**κι**άζω
+kj | c | c | palatalized stop | **κ**αι, σα**κ**ί, σ**κι**άζω (the [kj] phoneme on the training data, doesnt apply to the [e] and [i] vowels)
 gj | ɟ | gj / g', J\ | palatalized stop | ά**γγ**ελος, **γκ**ίνια, **γκι**ώνης
 ll | ʎ | L | palatalized liquid | ε**λι**ά
 nj | ɲ | J | palatalized nasal | **νι**ώθω (this is only exclusive to the DiffSinger phonemeset as of writing this)
-xj | ç | C | palatalized fricative | **χ**έρι, μονα**χ**ή, **χι**όνι 
+xj | ç | C | palatalized fricative | **χ**έρι, μονα**χ**ή, **χι**όνι (the [xj] phoneme on the training data, doesnt apply to the [e] and [i] vowels)
 
 ### Global common phonemes
 DiffSinger | ENUNU | IPA | X-SAMPA | Notes
