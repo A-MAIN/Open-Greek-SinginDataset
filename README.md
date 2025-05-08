@@ -5,6 +5,13 @@ Phonemes are labelled according to X-SAMPA, with additions of [rr] and [ll], [y]
 
 All audio in this dataset was recorded using an AT2020USB-XP, and most samples have been treated with noise reduction and a limiter.
 
-The data is in 16 bit WAV, 44.1 KHZ, and mono.
+The audio data is in 16 bit WAV, 44.1 KHZ, and mono.
 
-Open-Greek-SinginDataset is licensed under CC BY-NC 4.0
+By utilizing this dataset, you agree to the following terms:
+**DO'S**:
+- you may use the audio & labels 
+
+**DONT'S**:
+
+
+the Open-Greek-SinginDataset is licensed under CC BY-NC 4.0
