@@ -2,7 +2,7 @@
 the Greek phonemes on this repository are based on X-SAMPA with a few alterations and additions. this compares to [the original SAMPA chart](https://www.phon.ucl.ac.uk/home/sampa/grk-uni.htm), IPA symbols, and VOCALOID equivalents.
 If you want to include these phonemes to your voicebank, I recommend you use the "el/" tag.
 
-Base set | original IPA |  original (X)-SAMPA | Category | Example
+Base set | original IPA |  original (X)-SAMPA | description | Example
 ------- | ------- | ------- | ------- | ------- 
 a | a | a | vowel | π**α**ς
 e | e | e | vowel | π**ε**ς, **αί**τιο
