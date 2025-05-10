@@ -30,7 +30,7 @@ x | x | x | fricative | **χ**ώμα
 z | z | z | fricative | **ζ**άρη
 D | ð | D | fricative | **δ**έμα
 G | ɣ | G | fricative | **γ**αστρονομική
-Ν | ŋ | N | allophone nasal | α**γγ**ούρι
+Ν | ŋ | N | allophone nasal | α**γγ**ούρι, ά**γ**χος
 Τ | θ | T | fricative | **θ**έμα
 ks | /ks/ | [k s] | cluster | **ξ**έχασε
 ps | /ps/ | [p s] | cluster | **ψ**ήνω
