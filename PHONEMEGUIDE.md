@@ -21,7 +21,7 @@ m | m | m | nasal | **μ**όνος
 n | n | n | nasal | **ν**όμος
 p | p | p | stop | **π**ήρα
 r | ɾ | 4 / r | liquid | **ρ**ήμα
-rr | r | R | liquid | ά**ρ**τος
+rr | r | R / rr | liquid | ά**ρ**τος
 s | s | s | fricative | **σ**ελίδα, πλάτο**ς**
 t | t | t | stop | **τ**είνω
 ts | t͡s | ts | affricate | **τσ**άγια, μα**τς**
@@ -41,10 +41,10 @@ nj | ɲ | J | palatalized nasal | **νι**ώθω (this is only exclusive to the 
 xj | ç | C | palatalized fricative | **χ**έρι, μονα**χ**ή, **χι**όνι (the [xj] phoneme on the training data, doesnt apply to the [e] and [i] vowels)
 
 ### Global common phonemes
-DiffSinger | ENUNU | IPA | X-SAMPA | Notes
+DiffSinger | ENUNU | IPA | X-SAMPA <sup><sub>(VOCALOID)</sub></sup> | Notes
 ------- | ------- | ------- | ---------- | -------
 SP | sil | n/a | Sil / Asp | silence
-AP | br | n/a | Br  | breath sounds
-SP, AP | pau | n/a | n/a | silence, breaths, and unsung segments in general (when working with ENUNU Training, it is reccomended to use it instead of [br] and [sil] due to recent errors)
+AP | br | n/a | Br | breath sounds
+SP, AP | pau | Sil, Br | n/a | silence, breaths, and unsung segments in general (when working with ENUNU Training, it is reccomended to use it instead of [br] and [sil] due to recent errors)
 cl | cl | V.O.T | ? / _} | glottal stop, can be substituted with [q]
 vf | vf | n/a | n/a | vocal fry
