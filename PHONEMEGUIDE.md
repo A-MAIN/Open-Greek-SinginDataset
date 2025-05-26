@@ -46,5 +46,5 @@ DiffSinger | ENUNU | IPA | X-SAMPA <sup><sub>(VOCALOID)</sub></sup> | Notes
 SP | sil | n/a | Sil / Asp | silence
 AP | br | n/a | Br | breath sounds
 SP, AP | pau | n/a | Sil, Br | silence, breaths, and unsung segments in general (when working with ENUNU Training, it is reccomended to use it instead of [br] and [sil] due to recent errors)
-cl | cl | V.O.T | ? | glottal stop, can be substituted with [q]
+cl | cl | ʔ / V.O.T | ? | glottal stop, can be substituted with [q]
 vf | vf | ◌̰ | n/a | vocal fry
