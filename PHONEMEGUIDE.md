@@ -28,14 +28,14 @@ ts | t͡s | ts | affricate | **τσ**άγια, μα**τς**
 v | v | v | fricative | **β**άση, αυ, ευ (the latter two are situational)
 x | x | x | fricative | **χ**ώμα
 z | z | z | fricative | **ζ**άρη
-D | ð | D | fricative | **δ**έμα
-G | ɣ | G | fricative | **γ**αστρονομική
-Ν | ŋ | N | allophone nasal | α**γγ**ούρι, ά**γ**χος
-Τ | θ | T | fricative | **θ**έμα
+D / dh | ð | D | fricative | **δ**έμα
+G / gh | ɣ | G | fricative | **γ**αστρονομική
+Ν / ng | ŋ | N | allophone nasal | α**γγ**ούρι, ά**γ**χος
+Τ / th | θ | T | fricative | **θ**έμα
 ks | /ks/ | [k s] | cluster | **ξ**έχασε
 ps | /ps/ | [p s] | cluster | **ψ**ήνω
-kj | c | c | palatalized stop | **κ**αι, σα**κ**ί, σ**κι**άζω (the [kj] phoneme on the training data, doesnt apply to the [e] and [i] vowels)
-gj | ɟ | gj / g', J\ | palatalized stop | ά**γγ**ελος, **γκ**ίνια, **γκι**ώνης
+kj | kʲ / c | kj / k', c | post-palatalized stop | **κ**αι, σα**κ**ί, σ**κι**άζω (the [kj] phoneme on the training data, doesnt apply to the [e] and [i] vowels)
+gj | gʲ / ɟ | gj / g', J\ | post-palatalized stop | ά**γγ**ελος, **γκ**ίνια, **γκι**ώνης
 ll | ʎ | L | palatalized liquid | ε**λι**ά
 nj | ɲ | J | palatalized nasal | **νι**ώθω (this is only exclusive to the DiffSinger phonemeset as of writing this)
 xj | ç | C | palatalized fricative | **χ**έρι, μονα**χ**ή, **χι**όνι (the [xj] phoneme on the training data, doesnt apply to the [e] and [i] vowels)
