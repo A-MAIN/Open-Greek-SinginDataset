@@ -4,7 +4,7 @@ a base AI SVS Model Training dataset and support files capable of the Greek lang
 Phonemes are labelled according to X-SAMPA, with additions of [rr] and [ll], [y] replacing the default [j] and [jj], the romanized but optional [ks] and [ps] for extra coverage, as well as conventional DiffSinger-specific phonemes (or NNSVS ones).
 
 All audio in this dataset was recorded using an AT2020USB-XP, and most samples have been treated with noise reduction and a limiter.
-the audio's not recorded by a profesional singer, but does cover a wide pitch range.
+the audio's not recorded by a profesional singer (rather a local singer here), but does cover a wide pitch range.
 
 The audio data is in 16 bit WAV, 44.1 KHZ, and mono.
 
