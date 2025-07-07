@@ -37,7 +37,7 @@ ps | /ps/ | [p s] | cluster | **ψ**ήνω
 kj | kʲ / c | kj / k', c | post-palatalized stop | **κ**αι, σα**κ**ί, σ**κι**άζω (the [kj] phoneme on the training data, doesnt apply to the [e] and [i] vowels)
 gj | gʲ / ɟ | gj / g', J\ | post-palatalized stop | ά**γγ**ελος, **γκ**ίνια, **γκι**ώνης
 ll | ʎ | L | palatalized liquid | ε**λι**ά
-nj | ɲ | J | palatalized nasal | **νι**ώθω (this is only exclusive to the DiffSinger phonemeset as of writing this)
+nj | ɲ | J | palatalized nasal | **νι**ώθω
 xj | xʲ / ç | xj / x', C | post-palatalized fricative | **χ**έρι, μονα**χ**ή, **χι**όνι (the [xj] phoneme on the training data, doesnt apply to the [e] and [i] vowels)
 
 ### Global common phonemes
