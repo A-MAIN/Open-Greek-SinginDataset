@@ -1,5 +1,5 @@
 ﻿## Base OGSD Phoneme guide
-the Greek phonemes on this repository are based on X-SAMPA with a few alterations and additions. this compares to [the original SAMPA chart](https://www.phon.ucl.ac.uk/home/sampa/grk-uni.htm), IPA symbols, and VOCALOID & [eSpeak](https://github.com/espeak-ng/espeak-ng/blob/master/dictsource/el_rules) equivalents.
+the Greek phonemes on this repository are based on X-SAMPA and [CMUSphinx's Phoneset](https://sourceforge.net/projects/cmusphinx/files/Acoustic%20and%20Language%20Models/Greek/) with a few alterations and additions. this compares to [the original SAMPA chart](https://www.phon.ucl.ac.uk/home/sampa/grk-uni.htm), IPA symbols, and VOCALOID & [eSpeak](https://github.com/espeak-ng/espeak-ng/blob/master/dictsource/el_rules) equivalents.
 If you want to include these phonemes to your voicebank, I recommend you use the "el/" tag.
 
 Base set | original IPA |  original (X)-SAMPA | Category | Example
