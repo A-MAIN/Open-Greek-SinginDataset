@@ -1,5 +1,5 @@
 ﻿## Base OGSD Phoneme guide
-the Greek phonemes on this repository are based on X-SAMPA and [CMUSphinx's Phoneset](https://sourceforge.net/projects/cmusphinx/files/Acoustic%20and%20Language%20Models/Greek/) with a few alterations and additions. this compares to [the original SAMPA chart](https://www.phon.ucl.ac.uk/home/sampa/grk-uni.htm), IPA symbols, The CMU Sphinx Dictionary phoneset for Greek, and VOCALOID & [eSpeak](https://github.com/espeak-ng/espeak-ng/blob/master/dictsource/el_rules) equivalents.
+the Greek phonemes on this repository are based on X-SAMPA and [CMUSphinx's Phoneset](https://sourceforge.net/projects/cmusphinx/files/Acoustic%20and%20Language%20Models/Greek/) with a few alterations and additions to better represent the graphemes for easy recognizability whilst also be closely realized with the ipa symbols. this compares to [the original SAMPA chart](https://www.phon.ucl.ac.uk/home/sampa/grk-uni.htm), IPA symbols, The CMU Sphinx Dictionary phoneset for Greek, and the VOCALOID & [eSpeak](https://github.com/espeak-ng/espeak-ng/blob/master/dictsource/el_rules) equivalents of X-SAMPA.
 If you want to include these phonemes to your voicebank, I recommend you use the "el/" tag.
 
 Base set | original IPA |  original (X)-SAMPA | CMUSphinx | Category | Example
@@ -41,7 +41,7 @@ nj | ɲ | J / n^ | n |  palatalized nasal | **νι**ώθω
 xj | xʲ / ç | xj / x', C | hs | post-palatalized fricative | **χ**έρι, μονα**χ**ή, **χι**όνι (the [xj] phoneme on the training data, doesnt apply to the [e] and [i] vowels)
 
 ### Common global phonemes
-DiffSinger | ENUNU | IPA | X-SAMPA <sup><sub>(VOCALOID)</sub></sup> | Notes
+DiffSinger | ENUNU / NNSVS | IPA | X-SAMPA <sup><sub>(VOCALOID)</sub></sup> | Notes
 ------- | ------- | ------- | ---------- | -------
 SP | sil | n/a | Sil / Asp | silence
 AP | br, exh, axh | n/a | Br | breath sounds
