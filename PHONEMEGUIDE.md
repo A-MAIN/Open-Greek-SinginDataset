@@ -35,7 +35,7 @@ G / gh | ɣ | G / Q | gh | fricative | **γ**αστρονομική
 ks | /ks/ | [k s] | [k s] | cluster | **ξ**έχασε
 ps | /ps/ | [p s] | [p s] | cluster | **ψ**ήνω
 kj | kʲ / c | kj / k', c | kj | post-palatalized stop | **κ**αι, σα**κ**ί, σ**κι**άζω (the [kj] phoneme on the training data, doesnt apply to the [e] and [i] vowels)
-gj | gʲ / ɟ | gj / g', J\ | [g i0] |  post-palatalized stop | ά**γγ**ελος, **γκ**ίνια, **γκι**ώνης
+gj | gʲ / ɟ | gj / g', J\ | [g i0] |  post-palatalized stop | ά**γγ**ελος, **γκ**ίνια, **γκι**ώνης (the [gj] phoneme on the training data, may sometimes don't apply to the [e] and [i] vowels according to the context of the grapheme)
 ll | ʎ | L / l^ | l | palatalized liquid | ε**λι**ά
 nj | ɲ | J / n^ | n |  palatalized nasal | **νι**ώθω
 xj | xʲ / ç | xj / x', C | hs | post-palatalized fricative | **χ**έρι, μονα**χ**ή, **χι**όνι (the [xj] phoneme on the training data, doesnt apply to the [e] and [i] vowels)
