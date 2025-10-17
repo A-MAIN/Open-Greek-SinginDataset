@@ -1,15 +1,19 @@
 # Open-Greek-SinginDataset
-a base AI SVS Model Training dataset and support files capable of the Greek language, used in "A-MAIN -DS MODE-" as well as included striged samples of my dedicated Greek CVVC reclist.
+[[Ελληνικό README]](README_EL.md)
 
-Phonemes are labelled according to X-SAMPA, with additions of [rr] and [ll], [y] replacing the default [j] and [jj], the romanized but optional [ks] and [ps] for extra coverage, as well as conventional DiffSinger-specific phonemes (or NNSVS ones).
+this repo is a base AI SVS Model Training dataset with support files capable of the Greek language, used in "A-MAIN -DS MODE-" as well as included striged samples from my dedicated Greek CVVC reclist.
+
+Phonemes are labelled according to a custom phoneset based on X-SAMPA, with additions of [rr] and [ll], [y] replacing the default [j] and [jj], the romanized but optional [ks] and [ps] for extra coverage, as well as conventional DiffSinger-specific phonemes (or NNSVS ones).
 
 It comes in 2 styles: X-SAMPA Style & SPHINX Style. The diffrence is that the first one retains the single capital letters for certain phonemes, and the other is entirely lowercase.
 you can choose whichever you like for preference.
 
-All audio in this dataset was recorded using an AT2020USB-XP, and most samples have been treated with noise reduction and a limiter.
-the audio's not recorded by a profesional singer (rather a local singer here), but does cover a wide pitch range.
+All audio in this dataset was recorded using an AT2020USB-XP, and most samples have been treated with noise reduction, normalization, and/or a limiter.
+the audio's not recorded by a profesional singer (rather a local singer here), but does cover a wide male pitch and style range.
 
 The audio data is in 16 bit WAV, 44.1 KHZ, and mono.
+
+all .lab data files are HTK-Formatted.
 
 By utilizing this dataset, you agree to the following terms of use:
 
