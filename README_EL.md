@@ -28,4 +28,4 @@ Tο repo Open-Greek-SinginDataset είναι ένα σύνολο βάση δεδ
 
 οτιδήποτε εκτός από την παραπάνω χρήση υπάγεται στην ακόλουθη άδεια:
 
-Το Open-Greek-SinginDataset διατίθεται υπό την άδεια CC BY-NC 4.0
+Το Open-Greek-SinginDataset διατίθεται υπό την άδεια CC BY-SA 4.0
