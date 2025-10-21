@@ -38,7 +38,7 @@ kj | kʲ / c | kj / k', c | kj | post-palatalized stop | **κ**αι, σα**κ**�
 gj | gʲ / ɟ | gj / g', J\ | [g i0] |  post-palatalized stop | ά**γγ**ελος, **γκ**ίνια, **γκι**ώνης (the [gj] phoneme on the training data, may sometimes don't apply to the [e] and [i] vowels according to the context of the grapheme)
 ll | ʎ | L / l^ | l | palatalized liquid | ε**λι**ά
 nj | ɲ | J / n^ | n |  palatalized nasal | **νι**ώθω
-xj | xʲ / ç | xj / x', C | hs | post-palatalized fricative | **χ**έρι, μονα**χ**ή, **χι**όνι (the [xj] phoneme on the training data, doesnt apply to the [e] and [i] vowels)
+xj | xʲ / ç | xj / x', C | hs | post-palatalized fricative | **χ**έρι, μονα**χ**ή, **χι**όνι, π**οι**ος (the [xj] phoneme on the training data, doesnt apply to the [e] and [i] vowels)
 
 ### Common global phonemes
 DiffSinger | ENUNU / NNSVS | IPA | X-SAMPA <sup><sub>(VOCALOID)</sub></sup> | Notes
