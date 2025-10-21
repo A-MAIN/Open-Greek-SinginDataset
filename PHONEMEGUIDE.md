@@ -4,11 +4,11 @@ If you want to include these phonemes to your voicebank, I recommend you use the
 
 Base set | original IPA |  original (X)-SAMPA | CMUSphinx | Category | Example
 ------- | ------- | ------- | ------- | ------- | ------- 
-a | a | a | a0, a1 | vowel | π**α**ς
-e | e | e | e0, e1 | vowel | π**ε**ς, **αί**τιο
-i | i | i | i0, i1 | vowel | **ί**διος, ξ**υ**ρ**ι**σμένο, εαριν**ή**, π**ει**ς, **οι**κία
-o | o | o | o0, o1 | vowel | **ο**δ**ό**ς, π**ω**ς
-u | u | u | u0, u1 | vowel | π**ου**
+a | a | a | a | vowel | π**α**ς
+e | e | e | e | vowel | π**ε**ς, **αί**τιο
+i | i | i | i | vowel | **ί**διος, ξ**υ**ρ**ι**σμένο, εαριν**ή**, π**ει**ς, **οι**κία
+o | o | o | o | vowel | **ο**δ**ό**ς, π**ω**ς
+u | u | u | u | vowel | π**ου**
 y  | j ʝ | j, jj / j\ | j | semivowel | **γ**έρος, **γ**η, κρα**γι**όν, δ**ι**αβάζω
 b | b | b | b | stop | **μπ**ορώ
 d | d | d | d | stop | πέ**ντ**ε
