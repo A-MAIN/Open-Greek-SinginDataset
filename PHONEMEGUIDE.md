@@ -30,8 +30,8 @@ x | x | x | h | fricative | **χ**ώμα
 z | z | z | z | fricative | **ζ**άρη
 D / dh | ð | D | dh | fricative | **δ**έμα
 G / gh | ɣ | G / Q | gh | fricative | **γ**αστρονομική
-Ν / ng | ŋ | N | ng | allophone nasal | α**γγ**ούρι, ά**γ**χος
 Τ / th | θ | T | th | fricative | **θ**έμα
+ng | ŋ | N | ng | allophone nasal | α**γγ**ούρι, ά**γ**χος
 ks | /ks/ | [k s] | [k s] | cluster | **ξ**έχασε
 ps | /ps/ | [p s] | [p s] | cluster | **ψ**ήνω
 kj | kʲ / c | kj / k', c | kj | post-palatalized stop | **κ**αι, σα**κ**ί, σ**κι**άζω (the [kj] phoneme on the training data, doesnt apply to the [e] and [i] vowels)
