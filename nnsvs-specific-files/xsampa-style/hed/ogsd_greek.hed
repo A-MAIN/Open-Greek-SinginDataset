@@ -8,17 +8,17 @@ QS "L-Vowel" {*^a-*,*^i-*,*^u-*,*^e-*,*^o-*}
 QS "C-Vowel" {*-a+*,*-i+*,*-u+*,*-e+*,*-o+*}
 QS "R-Vowel" {*+a=*,*+i=*,*+u=*,*+e=*,*+o=*}
 
-QS "L-Consonant" {*^y-*,*^b-*,*^d-*,*^k-*,*^g-*,*^p-*,*^t-*,*^dz-*,*^ts-*,*^f-*,*^s-*,*^v-*,*^x-*,*^z-*,*^l-*,*^m-*,*^n-*,*^r-*,*^rr-*,*^D-*,*^G-*,*^T-*,*^N-*,*^ps-*,*^ks-*,*^gj-*,*^kj-*,*^xj-*,*^ll-*,*^nj-*}
-QS "C-Consonant" {*-y+*,*-b+*,*-d+*,*-k+*,*-g+*,*-p+*,*-t+*,*-dz+*,*-ts+*,*-f+*,*-s+*,*-v+*,*-x+*,*-z+*,*-l+*,*-m+*,*-n+*,*-r+*,*-rr+*,*-D+*,*-G+*,*-T+*,*-N+*,*-ps+*,*-ks+*,*-gj+*,*-kj+*,*-xj+*,*-ll+*,*-nj+*}
-QS "R-Consonant" {*+y=*,*+b=*,*+d=*,*+k=*,*+g=*,*+p=*,*+t=*,*+dz=*,*+ts=*,*+f=*,*+s=*,*+v=*,*+x=*,*+z=*,*+l=*,*+m=*,*+n=*,*+r=*,*+rr=*,*+D=*,*+G=*,*+T=*,*+N=*,*+ps=*,*+ks=*,*+gj=*,*+kj=*,*+xj=*,*+ll=*,*+nj=*}
+QS "L-Consonant" {*^y-*,*^b-*,*^d-*,*^k-*,*^g-*,*^p-*,*^t-*,*^dz-*,*^ts-*,*^f-*,*^s-*,*^v-*,*^x-*,*^z-*,*^l-*,*^m-*,*^n-*,*^r-*,*^rr-*,*^D-*,*^G-*,*^T-*,*^ng-*,*^ps-*,*^ks-*,*^gj-*,*^kj-*,*^xj-*,*^ll-*,*^nj-*}
+QS "C-Consonant" {*-y+*,*-b+*,*-d+*,*-k+*,*-g+*,*-p+*,*-t+*,*-dz+*,*-ts+*,*-f+*,*-s+*,*-v+*,*-x+*,*-z+*,*-l+*,*-m+*,*-n+*,*-r+*,*-rr+*,*-D+*,*-G+*,*-T+*,*-ng+*,*-ps+*,*-ks+*,*-gj+*,*-kj+*,*-xj+*,*-ll+*,*-nj+*}
+QS "R-Consonant" {*+y=*,*+b=*,*+d=*,*+k=*,*+g=*,*+p=*,*+t=*,*+dz=*,*+ts=*,*+f=*,*+s=*,*+v=*,*+x=*,*+z=*,*+l=*,*+m=*,*+n=*,*+r=*,*+rr=*,*+D=*,*+G=*,*+T=*,*+ng=*,*+ps=*,*+ks=*,*+gj=*,*+kj=*,*+xj=*,*+ll=*,*+nj=*}
 
 QS "L-Silences" {*^sil-*,*^br-*,*^pau-*,*^cl-*}
 QS "C-Silences" {*-sil+*,*-br+*,*-pau+*,*-cl+*}
 QS "R-Silences" {*+sil=*,*+br=*,*+pau=*,*+cl=*}
 
-QS "L-NOFIX_VUV_Voiced" {*^a-*,*^i-*,*^u-*,*^e-*,*^o-*,*^y-*,*^b-*,*^d-*,*^g-*,*^dz-*,*^v-*,*^z-*,*^l-*,*^m-*,*^n-*,*^r-*,*^rr-*,*^D-*,*^G-*,*^N-*,*^gj-*,*^ll-*,*^nj-*}
-QS "C-NOFIX_VUV_Voiced" {*-a+*,*-i+*,*-u+*,*-e+*,*-o+*,*-y+*,*-b+*,*-d+*,*-g+*,*-dz+*,*-v+*,*-z+*,*-l+*,*-m+*,*-n+*,*-r+*,*-rr+*,*-D+*,*-G+*,*-N+*,*-gj+*,*-ll+*,*-nj+*}
-QS "R-NOFIX_VUV_Voiced" {*+a=*,*+i=*,*+u=*,*+e=*,*+o=*,*+y=*,*+b=*,*+d=*,*+g=*,*+dz=*,*+v=*,*+z=*,*+l=*,*+m=*,*+n=*,*+r=*,*+rr=*,*+D=*,*+G=*,*+N=*,*+gj=*,*+ll=*,*+nj=*}
+QS "L-NOFIX_VUV_Voiced" {*^a-*,*^i-*,*^u-*,*^e-*,*^o-*,*^y-*,*^b-*,*^d-*,*^g-*,*^dz-*,*^v-*,*^z-*,*^l-*,*^m-*,*^n-*,*^r-*,*^rr-*,*^D-*,*^G-*,*^ng-*,*^gj-*,*^ll-*,*^nj-*}
+QS "C-NOFIX_VUV_Voiced" {*-a+*,*-i+*,*-u+*,*-e+*,*-o+*,*-y+*,*-b+*,*-d+*,*-g+*,*-dz+*,*-v+*,*-z+*,*-l+*,*-m+*,*-n+*,*-r+*,*-rr+*,*-D+*,*-G+*,*-ng+*,*-gj+*,*-ll+*,*-nj+*}
+QS "R-NOFIX_VUV_Voiced" {*+a=*,*+i=*,*+u=*,*+e=*,*+o=*,*+y=*,*+b=*,*+d=*,*+g=*,*+dz=*,*+v=*,*+z=*,*+l=*,*+m=*,*+n=*,*+r=*,*+rr=*,*+D=*,*+G=*,*+ng=*,*+gj=*,*+ll=*,*+nj=*}
 
 QS "L-NOFIX_VUV_Unvoiced" {*^k-*,*^p-*,*^t-*,*^ts-*,*^f-*,*^s-*,*^x-*,*^T-*,*^ps-*,*^ks-*,*^kj-*,*^xj-*,*^cl-*}
 QS "C-NOFIX_VUV_Unvoiced" {*-k+*,*-p+*,*-t+*,*-ts+*,*-f+*,*-s+*,*-x+*,*-T+*,*-ps+*,*-ks+*,*-kj+*,*-xj+*,*-cl+*}
@@ -68,9 +68,9 @@ QS "L-Consonant_Fricative" {*^f-*,*^s-*,*^v-*,*^x-*,*^z-*,*^D-*,*^G-*,*^T-*,*^ps
 QS "C-Consonant_Fricative" {*-f+*,*-s+*,*-v+*,*-x+*,*-z+*,*-D+*,*-G+*,*-T+*,*-ps+*,*-ks+*}
 QS "R-Consonant_Fricative" {*+f=*,*+s=*,*+v=*,*+x=*,*+z=*,*+D=*,*+G=*,*+T=*,*+ps=*,*+ks=*}
 
-QS "L-Consonant_Nasal" {*^m-*,*^n-*,*^N-*}
-QS "C-Consonant_Nasal" {*-m+*,*-n+*,*-N+*}
-QS "R-Consonant_Nasal" {*+m=*,*+n=*,*+N=*}
+QS "L-Consonant_Nasal" {*^m-*,*^n-*,*^ng-*}
+QS "C-Consonant_Nasal" {*-m+*,*-n+*,*-ng+*}
+QS "R-Consonant_Nasal" {*+m=*,*+n=*,*+ng=*}
 
 QS "L-Consonant_Liquid" {*^l-*,*^r-*,*^rr-*,*^ll-*}
 QS "C-Consonant_Liquid" {*-l+*,*-r+*,*-rr+*,*-ll+*}
@@ -112,9 +112,9 @@ QS "L-Consonant_Alveolopalatal" {*^nj-*}
 QS "C-Consonant_Alveolopalatal" {*-nj+*}
 QS "R-Consonant_Alveolopalatal" {*+nj=*}
 
-QS "L-Consonant_Velar" {*^k-*,*^g-*,*^x-*,*^G-*,*^N-*,*^ks-*,*^gj-*,*^kj-*}
-QS "C-Consonant_Velar" {*-k+*,*-g+*,*-x+*,*-G+*,*-N+*,*-ks+*,*-gj+*,*-kj+*}
-QS "R-Consonant_Velar" {*+k=*,*+g=*,*+x=*,*+G=*,*+N=*,*+ks=*,*+gj=*,*+kj=*}
+QS "L-Consonant_Velar" {*^k-*,*^g-*,*^x-*,*^G-*,*^ng-*,*^ks-*,*^gj-*,*^kj-*}
+QS "C-Consonant_Velar" {*-k+*,*-g+*,*-x+*,*-G+*,*-ng+*,*-ks+*,*-gj+*,*-kj+*}
+QS "R-Consonant_Velar" {*+k=*,*+g=*,*+x=*,*+G=*,*+ng=*,*+ks=*,*+gj=*,*+kj=*}
 
 QS "L-Consonant_Approximant" {*^y-*,*^l-*,*^r-*,*^ll-*}
 QS "C-Consonant_Approximant" {*-y+*,*-l+*,*-r+*,*-ll+*}
@@ -217,9 +217,9 @@ QS "R-G" {*+G=*}
 QS "L-T" {*^T-*}
 QS "C-T" {*-T+*}
 QS "R-T" {*+T=*}
-QS "L-N" {*^N-*}
-QS "C-N" {*-N+*}
-QS "R-N" {*+N=*}
+QS "L-ng" {*^ng-*}
+QS "C-ng" {*-ng+*}
+QS "R-ng" {*+ng=*}
 QS "L-ps" {*^ps-*}
 QS "C-ps" {*-ps+*}
 QS "R-ps" {*+ps=*}
