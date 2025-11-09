@@ -28,4 +28,4 @@ By utilizing this dataset, you agree to the following terms of use:
 
 anything outside of the above usage falls under the following license:
 
-the Open-Greek-SinginDataset is licensed under CC BY-SA 4.0
+the Open-Greek-SinginDataset is licensed under CC BY-NC-SA 4.0
