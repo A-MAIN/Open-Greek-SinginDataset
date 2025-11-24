@@ -1,7 +1,7 @@
 # Open-Greek-SinginDataset
 [[Ελληνικό README]](README_EL.md)
 
-this repo is a base AI SVS Model Training dataset with support files capable of the Greek language, used in "A-MAIN -DS MODE-" as well as included striged samples from my dedicated Greek CVVC reclist.
+this repo is a base AI SVS Model Training dataset with support files capable of the Greek language, used in "A-MAIN -DS MODE-" as well as included striged samples from my dedicated Greek CVVC reclist (but thats coming in a later update tho).
 
 Phonemes are labelled according to a custom phoneset based on X-SAMPA, with additions of [rr] and [ll], [y] replacing the default [j] and [jj], the romanized but optional [ks] and [ps] for extra coverage, as well as conventional DiffSinger-specific phonemes (or NNSVS ones).
 
