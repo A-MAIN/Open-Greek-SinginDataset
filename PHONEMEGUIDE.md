@@ -18,7 +18,7 @@ g | g | g | g | stop | ό**γκ**ος
 k | k | k | k | stop | **κ**όμμα
 l | l | l | l | liquid | **λ**ίμα
 m | m | m | m | nasal | **μ**όνος
-n | n | n | m | nasal | **ν**όμος
+n | n | n | n | nasal | **ν**όμος
 p | p | p | p | stop | **π**ήρα
 r | ɾ | 4 / r | r | liquid | **ρ**ήμα
 rr | r | R / rr | r | liquid | ά**ρ**τος
