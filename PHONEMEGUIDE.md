@@ -18,7 +18,7 @@ g | g | g | g | stop | ό**γκ**ος
 k | k | k | k | stop | **κ**όμμα
 l | l | l | l | liquid | **λ**ίμα
 m | m | m | m | nasal | **μ**όνος
-n | n | n | m | nasal | **ν**όμος
+n | n | n | n | nasal | **ν**όμος
 p | p | p | p | stop | **π**ήρα
 r | ɾ | 4 / r | r | liquid | **ρ**ήμα
 rr | r | R / rr | r | liquid | ά**ρ**τος
@@ -29,16 +29,16 @@ v | v | v | v | fricative | **β**άση, αυ, ευ (the latter two are situati
 x | x | x | h | fricative | **χ**ώμα
 z | z | z | z | fricative | **ζ**άρη
 D / dh | ð | D | dh | fricative | **δ**έμα
-G / gh | ɣ | G / Q | gh | fricative | **γ**αστρονομική
+G / gh | ɣ | G | gh | fricative | **γ**αστρονομική
 Τ / th | θ | T | th | fricative | **θ**έμα
 ng | ŋ | N | ng | allophone nasal | α**γγ**ούρι, ά**γ**χος
 ks | /ks/ | [k s] | [k s] | cluster | **ξ**έχασε
 ps | /ps/ | [p s] | [p s] | cluster | **ψ**ήνω
-kj | kʲ / c | kj / k', c | kj | post-palatalized stop | **κ**αι, σα**κ**ί, σ**κι**άζω (the [kj] phoneme on the training data, doesnt apply to the [e] and [i] vowels)
-gj | gʲ / ɟ | gj / g', J\ | [g i0] |  post-palatalized stop | ά**γγ**ελος, **γκ**ίνια, **γκι**ώνης (the [gj] phoneme on the training data, may sometimes don't apply to the [e] and [i] vowels according to the context of the grapheme)
-ll | ʎ | L / l^ | l | palatalized liquid | ε**λι**ά
-nj | ɲ | J / n^ | n |  palatalized nasal | **νι**ώθω
-xj | xʲ / ç | xj / x', C | hs | post-palatalized fricative | **χ**έρι, μονα**χ**ή, **χι**όνι, π**οι**ος (the [xj] phoneme on the training data, doesnt apply to the [e] and [i] vowels)
+kj | kʲ (c) | kj / k' | kj | post-palatalized stop | **κ**αι, σα**κ**ί, σ**κι**άζω (the [kj] phoneme on the training data, doesnt apply to the [e] and [i] vowels)
+gj | gʲ (ɟ) | gj / g' | [g i0] |  post-palatalized stop | ά**γγ**ελος, **γκ**ίνια, **γκι**ώνης (the [gj] phoneme on the training data, may sometimes don't apply to the [e] and [i] vowels according to the context of the grapheme)
+ll | ʎ | L | l | palatalized liquid | ε**λι**ά
+nj | ɲ | J | n |  palatalized nasal | **νι**ώθω
+xj | xʲ (ç) | xj / x' | hs | post-palatalized fricative | **χ**έρι, μονα**χ**ή, **χι**όνι, π**οι**ος (the [xj] phoneme on the training data, doesnt apply to the [e] and [i] vowels)
 
 ### Common global phonemes
 DiffSinger | ENUNU / NNSVS / Synthesizer V | IPA | X-SAMPA <sup><sub>(VOCALOID)</sub></sup> | Notes
