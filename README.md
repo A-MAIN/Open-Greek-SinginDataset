@@ -13,7 +13,7 @@ the audio's not recorded by a profesional singer (rather a local singer here), b
 
 The audio data is in 16 bit WAV, 44.1 KHZ, and mono.
 
-all .lab data files are HTK-Formatted.
+all hand-made .lab data files are HTK-Formatted.
 
 By utilizing this dataset, you agree to the following terms of use:
 
