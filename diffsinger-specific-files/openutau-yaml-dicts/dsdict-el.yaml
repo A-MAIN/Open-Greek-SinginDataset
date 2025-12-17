@@ -1,0 +1,50 @@
+#they're all according in alphabetical order
+symbols:
+- {symbol: AP, type: vowel}
+- {symbol: SP, type: vowel}
+- {symbol: cl, type: stop}
+- {symbol: vf, type: stop}
+# el phonemes
+- {symbol: el/a, type: vowel}
+- {symbol: el/b, type: stop}
+- {symbol: el/D, type: fricative}
+- {symbol: el/d, type: stop}
+- {symbol: el/dz, type: affricate}
+- {symbol: el/e, type: vowel}
+- {symbol: el/f, type: fricative}
+- {symbol: el/G, type: fricative}
+- {symbol: el/g, type: stop}
+- {symbol: el/gj, type: stop}
+- {symbol: el/i, type: vowel}
+- {symbol: el/k, type: stop}
+- {symbol: el/ks, type: stop}
+- {symbol: el/l, type: liquid}
+- {symbol: el/ll, type: liquid}
+- {symbol: el/m, type: nasal}
+- {symbol: el/n, type: nasal}
+- {symbol: el/ng, type: nasal}
+- {symbol: el/nj, type: nasal}
+- {symbol: el/o, type: vowel}
+- {symbol: el/p, type: stop}
+- {symbol: el/ps, type: stop}
+- {symbol: el/r, type: liquid}
+- {symbol: el/rr, type: liquid}
+- {symbol: el/s, type: fricative}
+- {symbol: el/T, type: fricative}
+- {symbol: el/t, type: stop}
+- {symbol: el/ts, type: affricate}
+- {symbol: el/u, type: vowel}
+- {symbol: el/x, type: fricative}
+- {symbol: el/xj, type: fricative}
+- {symbol: el/y, type: semivowel}
+- {symbol: el/z, type: fricative}
+#example Graphemes
+- {grapheme: "R", phonemes: [SP]}
+- {grapheme: "-", phonemes: [SP]}
+- {grapheme: "br", phonemes: [AP]}
+- {grapheme: "vf", phonemes: [vf]}
+- {grapheme: "cl", phonemes: [cl]}
+- {grapheme: "'", phonemes: [cl]}
+- {grapheme: "σαλατα", phonemes: [el/s, el/a, el/l, el/a, el/t, el/a]}
+- {grapheme: "σαλάτα", phonemes: [el/s, el/a, el/l, el/a, el/t, el/a]}
+- {grapheme: "salata", phonemes: [el/s, el/a, el/l, el/a, el/t, el/a]}
