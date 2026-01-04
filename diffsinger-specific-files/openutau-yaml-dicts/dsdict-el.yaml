@@ -18,6 +18,7 @@ symbols:
 - {symbol: el/i, type: vowel}
 - {symbol: el/k, type: stop}
 - {symbol: el/ks, type: stop}
+- {symbol: el/kj, type: stop}
 - {symbol: el/l, type: liquid}
 - {symbol: el/ll, type: liquid}
 - {symbol: el/m, type: nasal}
@@ -36,8 +37,10 @@ symbols:
 - {symbol: el/u, type: vowel}
 - {symbol: el/x, type: fricative}
 - {symbol: el/xj, type: fricative}
+- {symbol: el/v, type: fricative}
 - {symbol: el/y, type: semivowel}
 - {symbol: el/z, type: fricative}
+entries:
 #example Graphemes
 - {grapheme: "R", phonemes: [SP]}
 - {grapheme: "-", phonemes: [SP]}
@@ -45,6 +48,46 @@ symbols:
 - {grapheme: "vf", phonemes: [vf]}
 - {grapheme: "cl", phonemes: [cl]}
 - {grapheme: "'", phonemes: [cl]}
+- {grapheme: "q", phonemes: [cl]}
+# greek text / greek text w/o tones / greeklish (or romanized text)
 - {grapheme: "σαλατα", phonemes: [el/s, el/a, el/l, el/a, el/t, el/a]}
 - {grapheme: "σαλάτα", phonemes: [el/s, el/a, el/l, el/a, el/t, el/a]}
 - {grapheme: "salata", phonemes: [el/s, el/a, el/l, el/a, el/t, el/a]}
+# optional replacement methods for phonetic input
+replacements:
+- {from: a, to: el/a}
+- {from: b, to: el/b}
+- {from: D, to: el/D}
+- {from: d, to: el/d}
+- {from: dz, to: el/dz}
+- {from: e, to: el/e}
+- {from: f, to: el/f}
+- {from: G, to: el/G}
+- {from: g, to: el/g}
+- {from: gj, to: el/gj}
+- {from: i, to: el/i}
+- {from: k, to: el/k}
+- {from: ks, to: el/ks}
+- {from: kj, to: el/kj}
+- {from: l, to: el/l}
+- {from: ll, to: el/ll}
+- {from: m, to: el/m}
+- {from: n, to: el/n}
+- {from: ng, to: el/ng}
+- {from: nj, to: el/nj}
+- {from: o, to: el/o}
+- {from: p, to: el/p}
+- {from: ps, to: el/ps}
+- {from: r, to: el/r}
+- {from: rr, to: el/rr}
+- {from: s, to: el/s}
+- {from: T, to: el/T}
+- {from: t, to: el/t}
+- {from: ts, to: el/ts}
+- {from: u, to: el/u}
+- {from: x, to: el/x}
+- {from: xj, to: el/xj}
+- {from: v, to: el/v}
+- {from: y, to: el/y}
+- {from: z, to: el/z}
+
