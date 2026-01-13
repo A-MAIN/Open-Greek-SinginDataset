@@ -42,9 +42,13 @@ symbols:
 - {grapheme: "R", phonemes: [SP]}
 - {grapheme: "-", phonemes: [SP]}
 - {grapheme: "br", phonemes: [AP]}
+- {grapheme: "息", phonemes: [AP]}
 - {grapheme: "vf", phonemes: [vf]}
+- {grapheme: "'", phonemes: [vf]}
+- {grapheme: "edge", phonemes: [vf]}
 - {grapheme: "cl", phonemes: [cl]}
-- {grapheme: "'", phonemes: [cl]}
+- {grapheme: "q", phonemes: [cl]}
+- {grapheme: "・", phonemes: [cl]}
 - {grapheme: "σαλατα", phonemes: [el/s, el/a, el/l, el/a, el/t, el/a]}
 - {grapheme: "σαλάτα", phonemes: [el/s, el/a, el/l, el/a, el/t, el/a]}
 - {grapheme: "salata", phonemes: [el/s, el/a, el/l, el/a, el/t, el/a]}

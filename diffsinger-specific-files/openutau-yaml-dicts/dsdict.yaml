@@ -1,0 +1,54 @@
+#they're all according in alphabetical order
+symbols:
+- {symbol: AP, type: vowel}
+- {symbol: SP, type: vowel}
+- {symbol: cl, type: stop}
+- {symbol: vf, type: stop}
+# el phonemes
+- {symbol: a, type: vowel}
+- {symbol: b, type: stop}
+- {symbol: D, type: fricative}
+- {symbol: d, type: stop}
+- {symbol: dz, type: affricate}
+- {symbol: e, type: vowel}
+- {symbol: f, type: fricative}
+- {symbol: G, type: fricative}
+- {symbol: g, type: stop}
+- {symbol: gj, type: stop}
+- {symbol: i, type: vowel}
+- {symbol: k, type: stop}
+- {symbol: ks, type: stop}
+- {symbol: l, type: liquid}
+- {symbol: ll, type: liquid}
+- {symbol: m, type: nasal}
+- {symbol: n, type: nasal}
+- {symbol: ng, type: nasal}
+- {symbol: nj, type: nasal}
+- {symbol: o, type: vowel}
+- {symbol: p, type: stop}
+- {symbol: ps, type: stop}
+- {symbol: r, type: liquid}
+- {symbol: rr, type: liquid}
+- {symbol: s, type: fricative}
+- {symbol: T, type: fricative}
+- {symbol: t, type: stop}
+- {symbol: ts, type: affricate}
+- {symbol: u, type: vowel}
+- {symbol: x, type: fricative}
+- {symbol: xj, type: fricative}
+- {symbol: y, type: semivowel}
+- {symbol: z, type: fricative}
+#example Graphemes
+- {grapheme: "R", phonemes: [SP]}
+- {grapheme: "-", phonemes: [SP]}
+- {grapheme: "br", phonemes: [AP]}
+- {grapheme: "息", phonemes: [AP]}
+- {grapheme: "vf", phonemes: [vf]}
+- {grapheme: "'", phonemes: [vf]}
+- {grapheme: "edge", phonemes: [vf]}
+- {grapheme: "cl", phonemes: [cl]}
+- {grapheme: "q", phonemes: [cl]}
+- {grapheme: "・", phonemes: [cl]}
+- {grapheme: "σαλατα", phonemes: [s, a, l, a, t, a]}
+- {grapheme: "σαλάτα", phonemes: [s, a, l, a, t, a]}
+- {grapheme: "salata", phonemes: [s, a, l, a, t, a]}

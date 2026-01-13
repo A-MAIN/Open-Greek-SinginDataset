@@ -26,6 +26,11 @@ By utilizing this dataset, you agree to the following terms of use:
 - you may not use the audio & labels for MultiSpeaker Training of AI SVS Models that include celebrity voices, or any other datasets that you don't have permission to use/train.
 - you may not use the dataset's audio for RVC / SVC Making. distribution of the resulting model will be forbidden.
 
-anything outside of the above usage falls under the following license:
+------
 
-the Open-Greek-SinginDataset is licensed under CC BY-NC-SA 4.0
+anything outside of the above usage falls under the following license with the following exceptions:
+
+the Open-Greek-SinginDataset by A-MAIN is licensed under CC BY-NC-SA 4.0
+
+ShareAlike does not apply to the use of the Dataset as supllimentary material for models trained via parallel training.
+only for direct use of models mainly featuring the voice.
