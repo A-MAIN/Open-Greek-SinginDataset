@@ -52,7 +52,7 @@ entries:
 - {grapheme: "cl", phonemes: [cl]}
 - {grapheme: "q", phonemes: [cl]}
 - {grapheme: "・", phonemes: [cl]}
-# greek text / greek text w/o tones / greeklish (or romanized text)
+# greek text / greek text w/o diacritics / greeklish (or romanized text)
 - {grapheme: "σαλατα", phonemes: [el/s, el/a, el/l, el/a, el/t, el/a]}
 - {grapheme: "σαλάτα", phonemes: [el/s, el/a, el/l, el/a, el/t, el/a]}
 - {grapheme: "salata", phonemes: [el/s, el/a, el/l, el/a, el/t, el/a]}
