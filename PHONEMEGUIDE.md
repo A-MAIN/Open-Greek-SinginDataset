@@ -4,41 +4,41 @@ If you want to include these phonemes to your voicebank, I recommend you use the
 
 Base set | original IPA |  original (X)-SAMPA | CMUSphinx | Category | Example
 ------- | ------- | ------- | ------- | ------- | ------- 
-a | a | a | a | vowel | π**α**ς
-e | e | e | e | vowel | π**ε**ς, **αί**τιο
-i | i | i | i | vowel | **ί**διος, ξ**υ**ρ**ι**σμένο, εαριν**ή**, π**ει**ς, **οι**κία
-o | o | o | o | vowel | **ο**δ**ό**ς, π**ω**ς
-u | u | u | u | vowel | π**ου**
-y  | ʝ (j) | jj / j\ (j) | j | semivowel | **γ**έρος, **γ**η, κρα**γι**όν, δ**ι**αβάζω
-b | b | b | b | stop | **μπ**ορώ
-d | d | d | d | stop | πέ**ντ**ε
-dz | d͡z | dz | [d z] | affricate | **τζ**άμι
-f | f | f | f | fricative | **φ**εύγω, αυ, ευ (the latter two are situational)
-g | g | g | g | stop | ό**γκ**ος
-k | k | k | k | stop | **κ**όμμα
-l | l | l | l | liquid | **λ**ίμα
-m | m | m | m | nasal | **μ**όνος
-n | n | n | n | nasal | **ν**όμος
-p | p | p | p | stop | **π**ήρα
-r | ɾ | 4 / r | r | liquid | **ρ**ήμα
-rr | r | R / rr | r | liquid | ά**ρ**τος
-s | s | s | s | fricative | **σ**ελίδα, πλάτο**ς**
-t | t | t | t | stop | **τ**είνω
-ts | t͡s | ts | ts | affricate | **τσ**άγια, μα**τς**
-v | v | v | v | fricative | **β**άση, αυ, ευ (the latter two are situational)
-x | x | x | h | fricative | **χ**ώμα
-z | z | z | z | fricative | **ζ**άρη
-D / dh | ð | D | dh | fricative | **δ**έμα
-G / gh | ɣ | G | gh | fricative | **γ**αστρονομική
-Τ / th | θ | T | th | fricative | **θ**έμα
-ng | ŋ | N | ng | allophone nasal | α**γγ**ούρι, ά**γ**χος
-ks | /ks/ | [k s] | [k s] | cluster | **ξ**έχασε
-ps | /ps/ | [p s] | [p s] | cluster | **ψ**ήνω
-kj | kʲ (c) | kj / k' | kj | post-palatalized stop | **κ**αι, σα**κ**ί, σ**κι**άζω (the [kj] phoneme on the training data, doesnt apply to the [e] and [i] vowels)
-gj | gʲ (ɟ) | gj / g' | [g i0] |  post-palatalized stop | ά**γγ**ελος, **γκ**ίνια, **γκι**ώνης (the [gj] phoneme on the training data, may sometimes don't apply to the [e] and [i] vowels according to the context of the grapheme)
-ll | ʎ | L | l | palatalized liquid | ε**λι**ά
-nj | ɲ | J | n |  palatalized nasal | **νι**ώθω
-xj | xʲ (ç) | xj / x' | hs | post-palatalized fricative | **χ**έρι, μονα**χ**ή, **χι**όνι, π**οι**ος (the [xj] phoneme on the training data, doesnt apply to the [e] and [i] vowels)
+a | a | a | a | vowel | π**α**ς (p**a**s)
+e | e | e | e | vowel | π**ε**ς, **αί**τιο (p**e**s, **ai**tio)
+i | i | i | i | vowel | **ί**διος, ξ**υ**ρ**ι**σμένο, εαριν**ή**, π**ει**ς, **οι**κία (**i**dios, ks**y**r**i**smeno, ear**i**n**i**, p**ei**s, **oi**kia)
+o | o | o | o | vowel | **ο**δ**ό**ς, π**ω**ς (**o**d**o**s, p**o**s)
+u | u | u | u | vowel | π**ου** (p**ou**)
+y  | ʝ (j) | jj / j\ (j) | j | semivowel | **γ**έρος, **γ**η, κρα**γι**όν, δ**ι**αβάζω (**g**eros, **g**i, kra**gi**on, d**i**abazo)
+b | b | b | b | stop | **μπ**ορώ (**b**oro)
+d | d | d | d | stop | πέ**ντ**ε (pe**nt**e)
+dz | d͡z | dz | [d z] | affricate | **τζ**άμι (**tz**ami)
+f | f | f | f | fricative | **φ**εύγω, αυ, ευ (**f**evgo, a**f**, e**f**. the latter two are situational)
+g | g | g | g | stop | ό**γκ**ος (o**nk**os)
+k | k | k | k | stop | **κ**όμμα (**k**omma)
+l | l | l | l | liquid | **λ**ίμα (**l**ima)
+m | m | m | m | nasal | **μ**όνος (**m**onos)
+n | n | n | n | nasal | **ν**όμος (**n**omos)
+p | p | p | p | stop | **π**ήρα (**p**ira)
+r | ɾ | 4 / r | r | liquid | **ρ**ήμα (**r**ima)
+rr | r | R / rr | r | liquid | ά**ρ**τος (a**r**tos)
+s | s | s | s | fricative | **σ**ελίδα, πλάτο**ς** (**s**elida, plato**s**)
+t | t | t | t | stop | **τ**είνω (**t**eino)
+ts | t͡s | ts | ts | affricate | **τσ**άγια, μα**τς** (**ts**agia, ma**ts**)
+v | v | v | v | fricative | **β**άση, αυ, ευ (**v**asi, a**v**, e**v**. the latter two are situational)
+x | x | x | h | fricative | **χ**ώμα (**ch**oma)
+z | z | z | z | fricative | **ζ**άρη (**z**ari)
+D / dh | ð | D | dh | fricative | **δ**έμα (**d**ema)
+G / gh | ɣ | G | gh | fricative | **γ**αστρονομική (**g**astronomiki)
+Τ / th | θ | T | th | fricative | **θ**έμα (**th**ema)
+ng | ŋ | N | ng | allophone nasal | α**γγ**ούρι, ά**γ**χος (a**ng**ouri, a**n**chos)
+ks | /ks/ | [k s] | [k s] | cluster | **ξ**έχασε (**x**echase)
+ps | /ps/ | [p s] | [p s] | cluster | **ψ**ήνω (**ps**ino)
+kj | kʲ (c) | kj / k' | kj | post-palatalized stop | **κ**αι, σα**κ**ί, σ**κι**άζω (**k**ai, sa**k**i, s**ki**azo. the [kj] phoneme on the training data, doesnt apply to the [e] and [i] vowels)
+gj | gʲ (ɟ) | gj / g' | [g i0] |  post-palatalized stop | ά**γγ**ελος, **γκ**ίνια, **γκι**ώνης (an**g**elos, **nk**inia, **nki**onis. the [gj] phoneme on the training data, may sometimes don't apply to the [e] and [i] vowels according to the context of the grapheme)
+ll | ʎ | L | l | palatalized liquid | ε**λι**ά (e**li**a)
+nj | ɲ | J | n |  palatalized nasal | **νι**ώθω (**ni**otho)
+xj | xʲ (ç) | xj / x' | hs | post-palatalized fricative | **χ**έρι, μονα**χ**ή, **χι**όνι, π**οι**ος (**ch**eri, mona**ch**i, **chi**oni, p**oi**os. the [xj] phoneme on the training data, doesnt apply to the [e] and [i] vowels)
 
 ### Common global phonemes
 DiffSinger | ENUNU / NNSVS / Synthesizer V | IPA | X-SAMPA <sup><sub>(VOCALOID)</sub></sup> | Notes
