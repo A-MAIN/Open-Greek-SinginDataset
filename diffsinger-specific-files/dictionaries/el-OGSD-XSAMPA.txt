@@ -10,6 +10,7 @@ gj	gj
 G	G
 i	i
 k	k
+kj	kj
 ks	ks
 l	l
 ll	ll
