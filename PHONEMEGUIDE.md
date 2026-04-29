@@ -34,11 +34,11 @@ G / gh | ɣ | G | gh | fricative | **γ**αστρονομική (**g**astronomik
 ng | ŋ | N | ng | allophone nasal | α**γγ**ούρι, ά**γ**χος (a**ng**ouri, a**n**chos)
 ks | /ks/ | [k s] | [k s] | cluster | **ξ**έχασε (**ks**echase)
 ps | /ps/ | [p s] | [p s] | cluster | **ψ**ήνω (**ps**ino)
-kj | kʲ (c) | kj / k' | kj | post-palatalized stop | **κ**αι, σα**κ**ί, σ**κι**άζω (**k**ai, sa**k**i, s**ki**azo. the [kj] phoneme on the training data, doesnt apply to the [e] and [i] vowels)
-gj | gʲ (ɟ) | gj / g' | [g i0] |  post-palatalized stop | ά**γγ**ελος, **γκ**ίνια, **γκι**ώνης (an**g**elos, **nk**inia, **nki**onis. the [gj] phoneme on the training data, may sometimes don't apply to the [e] and [i] vowels according to the context of the grapheme)
+kj | kʲ (c) | kj / k' - c | kj | post-palatalized stop | **κ**αι, σα**κ**ί, σ**κι**άζω (**k**ai, sa**k**i, s**ki**azo. the [kj] phoneme on the training data, doesnt apply to the [e] and [i] vowels)
+gj | gʲ (ɟ) | gj / g' - J\ | [g i0] |  post-palatalized stop | ά**γγ**ελος, **γκ**ίνια, **γκι**ώνης (an**g**elos, **nk**inia, **nki**onis. the [gj] phoneme on the training data, may sometimes don't apply to the [e] and [i] vowels according to the context of the grapheme)
 ll | ʎ | L | l | palatalized liquid | ε**λι**ά (e**li**a)
 nj | ɲ | J | n |  palatalized nasal | **νι**ώθω (**ni**otho)
-xj | xʲ (ç) | xj / x' | hs | post-palatalized fricative | **χ**έρι, μονα**χ**ή, **χι**όνι, π**οι**ος (**ch**eri, mona**ch**i, **chi**oni, p**oi**os. the [xj] phoneme on the training data, doesnt apply to the [e] and [i] vowels)
+xj | xʲ (ç) | xj / x' - C | hs | post-palatalized fricative | **χ**έρι, μονα**χ**ή, **χι**όνι, π**οι**ος (**ch**eri, mona**ch**i, **chi**oni, p**oi**os. the [xj] phoneme on the training data, doesnt apply to the [e] and [i] vowels)
 
 ### Common global phonemes
 DiffSinger | ENUNU / NNSVS / Synthesizer V | IPA | X-SAMPA <sup><sub>(VOCALOID)</sub></sup> | Notes
