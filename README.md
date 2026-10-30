@@ -32,5 +32,4 @@ anything outside of the above usage falls under the following license with the f
 
 the Open-Greek-SinginDataset by A-MAIN is licensed under CC BY-NC-SA 4.0
 
-ShareAlike does not apply to the use of the Dataset as supllimentary material for models trained via parallel training.
-only for direct use of models mainly featuring the voice.
+NonComercial in Creative Commons does not always have to be strict on an intended usecase, as its the default. if you wish to use it in other means, you can ask me for permission directly.

@@ -49,6 +49,7 @@ symbols:
 - {grapheme: "cl", phonemes: [cl]}
 - {grapheme: "q", phonemes: [cl]}
 - {grapheme: "・", phonemes: [cl]}
+- {grapheme: "gs", phonemes: [cl]}
 - {grapheme: "σαλατα", phonemes: [s, a, l, a, t, a]}
 - {grapheme: "σαλάτα", phonemes: [s, a, l, a, t, a]}
 - {grapheme: "salata", phonemes: [s, a, l, a, t, a]}
