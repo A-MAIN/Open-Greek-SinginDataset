@@ -30,6 +30,6 @@ By utilizing this dataset, you agree to the following terms of use:
 
 anything outside of the above usage falls under the following license with the following exceptions:
 
-the Open-Greek-SinginDataset by A-MAIN is licensed under CC BY-NC-SA 4.0
+the Open-Greek-SinginDataset by A-MAIN is licensed under CC BY-NC 4.0
 
 NonComercial in Creative Commons does not always have to be strict on an intended usecase, as its the default. if you wish to use it in other means, you can ask me for permission directly.
